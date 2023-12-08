@@ -13,7 +13,7 @@ $${\color{lightblue}PYTHON}$$
 ![img](Gambar/diagramclass.png)
 
 * **Flowchart**
-![img](gambar/flowchart.png)
+![img](Gambar/flowchart.png)
 
 ### **Penjelasan dan kode Programnya**   
 Program kita kali ini akan menggunakan sistem OOP(Object-Oriented Programming), apa itu OOP?
